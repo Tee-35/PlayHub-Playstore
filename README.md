@@ -6,7 +6,9 @@
 
 ---
 
-To view data cleaning process using PANDAS click [here.](Dataset/README.md)
+The Excel file used to inspect clean and analyse the data is [here](Dataset/unclean_data.csv).  
+
+To view data cleaning process using PANDAS click [here.](Dataset/README.md).  
 
 
 <img width="989" height="590" alt="barchart" src="https://github.com/user-attachments/assets/2121cc4f-9d71-4218-8950-2fcefedd8b5d" />  
