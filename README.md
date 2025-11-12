@@ -18,7 +18,8 @@ The csv file used to inspect clean and analyse the data is [here](Dataset).
 
 The analysis of total sales by product for the first two quarters of 2025 shows that the **MacBook Air**, **iPhone 15**, and **Google Pixel 8** generated the highest revenue, together accounting for a significant share of overall sales. In contrast, **accessories** and lower-priced items such as the **Kindle Paperwhite** and **AirPods** contributed less to total revenue. These trends suggest **strong customer demand** for **premium devices**, indicating that Play Hub should prioritise stocking high-value tech products and maintaining healthy inventory levels for top-performing models. For the remainder of 2025, focusing on replenishing fast-moving, high-margin items while monitoring emerging trends in gaming consoles and accessories could help optimise **sales** and **warehouse efficiency.**  
 
-<img width="989" height="590" alt="Total Sales" src="https://github.com/user-attachments/assets/a7fd4a61-9e08-40cc-b291-74ac4a2951e8" />  
+
+<img width="989" height="590" alt="1output" src="https://github.com/user-attachments/assets/336f8a0c-7235-4293-9ca1-cdb75905d8fd" />
 
 ---
 
@@ -26,15 +27,15 @@ The analysis of total sales by product for the first two quarters of 2025 shows 
 
 The monthly order analysis for the first half of **2025** shows steady growth from **January** to **March**, peaking sharply in **April** with nearly **2,000 orders**, before declining through **May** and **June**. This spike may indicate a seasonal promotion, new product launch, or increased marketing activity driving sales in April. The downward trend in subsequent months suggests potential overstocking risks or reduced customer engagement post-peak. To prepare for the second half of 2025, **Play Hub** should plan inventory and marketing strategies around similar **high-demand periods** while investigating the causes behind the mid-year decline to stabilise future order volumes.  
 
-<img width="989" height="590" alt="Monthly Order" src="https://github.com/user-attachments/assets/b8319df6-ddf2-413c-b1e9-129f4e868439" />  
+<img width="989" height="590" alt="2output" src="https://github.com/user-attachments/assets/4ff90725-4e0d-4fac-99f1-d1d9feae5a5a" />
 
 ---
 
 ### Total Order by City 
 
-The data shows that **Manchester** led total orders in the first half of the year **(27%)**, followed by **London (21%)** and **Glasgow (17%)**, while other regions collectively made up **35%**. This distribution highlights consistent demand in major cities with strong growth potential across smaller markets. The chart visually emphasises Manchester’s dominant share, with a noticeably larger segment compared to **London** and **Glasgow**, reflecting its role as a key sales hub. The substantial “Other” category slice indicates a wide geographic spread of smaller but collectively significant markets, suggesting opportunities for expansion beyond the main urban centers.
+The data shows that **Manchester** led total orders in the first half of the year **(27%)**, followed by **London (21%)** and **Glasgow (17%)**, while other regions collectively made up **35%**. This distribution highlights consistent demand in major cities with strong growth potential across smaller markets. The chart visually emphasises Manchester’s dominant share, with a noticeably larger segment compared to **London** and **Glasgow**, reflecting its role as a key sales hub. The substantial “Other” category slice indicates a wide geographic spread of smaller but collectively significant markets, suggesting opportunities for expansion beyond the main urban centers.  
 
-<img width="795" height="790" alt="Total Order by Location" src="https://github.com/user-attachments/assets/3c65ebe6-69f3-42cc-b1e5-80255cf62516" />  
+<img width="795" height="790" alt="3output" src="https://github.com/user-attachments/assets/695d1056-06cb-460f-adbf-ceb6cb33e369" />
 
 ---
 
