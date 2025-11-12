@@ -54,5 +54,5 @@ Conduct deeper analysis into purchasing patterns, such as peak order months and 
 • **Forecasting and Planning:**  
 Use insights from the first two quarters to build demand forecasts for **Q3** and **Q4**. This data-driven approach will help optimise stock levels, anticipate seasonal peaks, and ensure warehouse operations are aligned with customer demand, supporting sustained revenue growth and operational efficiency.
 
-Looking ahead, warehouse stocking should prioritize maintaining sufficient inventory for **Manchester** and **London** while expanding product availability in high-performing smaller regions. A deeper analysis of purchasing patterns — such as peak order months and popular product categories — can guide inventory planning and promotional strategies. Consider offering bundle deals or seasonal promotions aligned with buying trends to boost mid-year sales and optimise stock turnover.
+Looking ahead, warehouse stocking should prioritize maintaining sufficient inventory for **Manchester** and **London** while expanding product availability in high-performing smaller regions. A deeper analysis of purchasing patterns during peak order months can guide inventory planning and promotional strategies. Consider offering bundle deals or seasonal promotions aligned with buying trends to boost mid-year sales and optimise stock turnover.
 
