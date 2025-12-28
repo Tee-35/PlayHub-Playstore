@@ -51,14 +51,14 @@ No channel is currently a clear outlier, suggesting stability but limited upside
 •	**Email:** Test segmentation, retention, and cross-sell strategies to unlock incremental revenue from an efficient channel.  
 
 ***Manage trade-offs***  
-•	Search scaling risks diminishing returns as competition increases.
-•	Affiliate growth may pressure margins if incentives rise.
-•	Maintaining channel diversification remains critical to protect total revenue.
+•	Search scaling risks diminishing returns as competition increases.  
+•	Affiliate growth may pressure margins if incentives rise.  
+•	Maintaining channel diversification remains critical to protect total revenue.  
  
 ***Next Analytical Steps***  
-•	Analyse cost per acquisition and ROAS by channel to validate scaling decisions.
-•	Segment performance by customer type (new vs returning) to refine spend allocation.
-•	Test AOV uplift initiatives in lower-value channels to improve revenue efficiency.
+•	Analyse cost per acquisition and ROAS by channel to validate scaling decisions.  
+•	Segment performance by customer type (new vs returning) to refine spend allocation.  
+•	Test AOV uplift initiatives in lower-value channels to improve revenue efficiency.  
 
 ---
 
