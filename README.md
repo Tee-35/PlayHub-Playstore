@@ -9,7 +9,7 @@ Play Hub is an online retailer specialising in gaming consoles and IT equipment,
 
 The review will look at anhnsfhnd provide recommdations the following key areas:
 
-• **[Marketing Channel Performance & Revenue Contribution](#marketing_channel_performance_&_revenue_contribution):**  
+• **[Marketing Channel Performance & Revenue Contribution](#marketing-channel-performance-&-revenue-contribution):**  
 • **[High-Value vs Low-Value Single-Order Users](#high-value_vs_low-value_single-order_users)** .  
 • **Total Order by City:** An analysis of current stock levels and reorder efficiency.  
 
