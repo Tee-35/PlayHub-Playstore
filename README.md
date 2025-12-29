@@ -3,14 +3,9 @@
 
 ***Q1,Q2‑Review: Game Shop Sales Report Jan-Jun 2025***
 
-Play Hub is an online retailer specialising in gaming consoles and IT equipment, offering products such as PlayStation 5 consoles, AirPods, and Google Pixel devices. This analysis focused on sales performance for the first half of 2025, using Python with Pandas, NumPy, Matplotlib, Seaborn and Excel to uncover purchasing trends and operational insights. Based on these findings, projections were developed for the second half of the year to guide stock planning, marketing strategies, and revenue optimisation. The review demonstrates how data-driven insights can support stronger business performance.
+Play Hub is an online retailer specialising in gaming consoles and IT equipment, offering products such as PlayStation 5 consoles, AirPods, and Google Pixel devices. This analysis focused on sales performance for the first half of 2025, using Python with Pandas, NumPy, Matplotlib, Seaborn and Excel to uncover purchasing trends and operational insights. Based on these findings, projections were developed for the second half of the year to guide stock planning, marketing strategies, and revenue optimisation. The review demonstrates how data-driven insights can support stronger business performance.  
 
-- [Installation](#installation)
-
-The review will look at anhnsfhnd provide recommdations the following key areas:
-
-
-• **Total Order by City:** An analysis of current stock levels and reorder efficiency.  
+The review will look at anhnsfhnd provide recommdations the following key areas:  
 
 • **[Marketing Channel Performance & Revenue Contribution](#marketing-channel-performance--revenue-contribution)**  
 • **[High-Value vs Low-Value Single-Order Users](#high-value-vs-low-value-single-order-users)**  
@@ -62,15 +57,19 @@ No channel is currently a clear outlier, suggesting stability but limited upside
 •	Segment performance by customer type (new vs returning) to refine spend allocation.  
 •	Test AOV uplift initiatives in lower value channels to improve revenue efficiency.  
 
-[⬆ Back to top](#top) 
----
+[⬆ Back to top](#top)  
+
+---  
+
 ## High-Value vs Low-Value Single-Order Users
+
 
 Among one-time purchasers, how many orders are high-value vs low-value, and what does that tell us about customer value concentration?
 
----
+---  
 
-## Installation
+
+
 
 
 [⬆ Back to top](#top) 
