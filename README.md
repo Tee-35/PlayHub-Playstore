@@ -20,7 +20,8 @@ The csv file used to inspect clean and analyse the data is [here](Dataset).
 
 We looked at revenue performance by each marketing channel, Affiliate, Direct, Email, Search and Social. Revenue is very evenly spread across channels, with Affiliate and Search slightly outperforming the rest.
 Search stands out for having the highest average order value, suggesting high-intent customers, while Social and Affiliate drive revenue more through volume.
-There’s an opportunity to optimise channel mix rather than relying on any single channel.
+There’s an opportunity to optimise channel mix rather than relying on any single channel.  
+
 
 <img width="4931" height="2200" alt="Picture 2" src="https://github.com/user-attachments/assets/667a7dfd-53f5-4df2-bf8e-ac2c3017a7f6" />  
 
