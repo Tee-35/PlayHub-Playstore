@@ -10,7 +10,7 @@ Play Hub is an online retailer specialising in gaming consoles and IT equipment,
 The review will look at anhnsfhnd provide recommdations the following key areas:
 
 • **[Marketing Channel Performance & Revenue Contribution](#marketing_channel_performance_&_revenue_contribution):**  
-• **High- vs Low-Value Single-Order Users:** .  
+• **[High-Value vs Low-Value Single-Order Users](#high-value_vs_low-value_single-order_users)** .  
 • **Total Order by City:** An analysis of current stock levels and reorder efficiency.  
 
 The csv file used to inspect clean and analyse the data is [here](Dataset).  
@@ -60,8 +60,10 @@ No channel is currently a clear outlier, suggesting stability but limited upside
 •	Segment performance by customer type (new vs returning) to refine spend allocation.  
 •	Test AOV uplift initiatives in lower value channels to improve revenue efficiency.  
 
+[⬆ Back to top](#top) 
 ---
-### High- vs Low-Value Single-Order Users 
+
+## High-value vs Low-Value Single-Order Users 
 
 Among one-time purchasers, how many orders are high-value vs low-value, and what does that tell us about customer value concentration?
 
