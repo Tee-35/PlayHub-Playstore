@@ -13,6 +13,9 @@ The review will look at anhnsfhnd provide recommdations the following key areas:
 • **[High-Value vs Low-Value Single-Order Users](#high-value_vs_low-value_single-order_users)** .  
 • **Total Order by City:** An analysis of current stock levels and reorder efficiency.  
 
+- [High-Value vs Low-Value Single-Order Users](#high-value-vs-low-value-single-order-users)
+
+
 The csv file used to inspect clean and analyse the data is [here](Dataset).  
 
 ---
@@ -62,8 +65,7 @@ No channel is currently a clear outlier, suggesting stability but limited upside
 
 [⬆ Back to top](#top) 
 ---
-
-## High-value_vs_Low-Value_Single-Order_Users 
+## High-Value vs Low-Value Single-Order Users
 
 Among one-time purchasers, how many orders are high-value vs low-value, and what does that tell us about customer value concentration?
 
