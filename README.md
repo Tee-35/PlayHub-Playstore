@@ -63,7 +63,7 @@ No channel is currently a clear outlier, suggesting stability but limited upside
 [⬆ Back to top](#top) 
 ---
 
-## High-value vs Low-Value Single-Order Users 
+## High-value_vs_Low-Value_Single-Order_Users 
 
 Among one-time purchasers, how many orders are high-value vs low-value, and what does that tell us about customer value concentration?
 
