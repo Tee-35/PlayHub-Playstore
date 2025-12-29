@@ -9,7 +9,7 @@ Play Hub is an online retailer specialising in gaming consoles and IT equipment,
 The review will look at anhnsfhnd provide recommdations the following key areas:
 
 • **Marketing Channel Performance & Revenue Contribution:** .  
-• **Total Orders by Month:** a projection of the order volume from month to month.  
+• **High- vs Low-Value Single-Order Users:** .  
 • **Total Order by City:** An analysis of current stock levels and reorder efficiency.  
 
 The csv file used to inspect clean and analyse the data is [here](Dataset).  
@@ -28,22 +28,21 @@ There’s an opportunity to optimise channel mix rather than relying on any sing
 ### Key Findings
 
 •	**Revenue distribution is balanced** across all channels, with Affiliate (£632k) and Search (£597k) marginally outperforming others.  
-•	**Search delivers the highest Average Order Value (£481)**, indicating stronger purchase intent and higher-quality traffic.  
+•	**Search delivers the highest Average Order Value (£481)**, indicating stronger purchase intent and higher quality traffic.  
 •	**Affiliate and Social drive revenue primarily through order volume**, not transaction value.  
 •	**Email and Direct perform efficiently but at smaller scale**, with competitive AOVs but lower total orders.   
 
 No channel is currently a clear outlier, suggesting stability but limited upside without targeted optimisation.
  
-**Commercial Interpretation**  
+### Commercial Interpretation  
 
-•	**Intent differentiation:** Search captures late-funnel demand, resulting in higher AOV, while Social and Affiliate capture broader, earlier-funnel traffic.  
-•	**Volume vs value dynamics:** Revenue parity across channels is achieved through different mechanics—either higher AOV (Search) or higher order counts (Affiliate, Social).  
-•	**Risk profile:** Even revenue spread reduces exposure to channel-specific volatility but may indicate under-leveraged high-intent channels.
+•	**Intent differentiation:** Search captures late-funnel demand, resulting in higher AOV, while Social and Affiliate capture broader, earlier funnel traffic.  
+•	**Volume vs value dynamics:** Revenue parity across channels is achieved through different mechanics. Either higher AOV (Search) or higher order counts (Affiliate, Social).  
+•	**Risk profile:** Even revenue spread reduces exposure to channel specific volatility but may indicate under-leveraged high-intent channels.
  
-**Strategic Implications & Recommendations**
+### Strategic Implications & Recommendations  
 
-***Scale selectively***
-
+***Scale selectively***  
 •	**Search:** Prioritise incremental investment while closely tracking marginal ROI and cost inflation.  
 •	**Affiliate:** Maintain investment given strong revenue contribution, subject to margin and commission control.  
 
@@ -52,17 +51,18 @@ No channel is currently a clear outlier, suggesting stability but limited upside
 •	**Email:** Test segmentation, retention, and cross-sell strategies to unlock incremental revenue from an efficient channel.  
 
 ***Manage trade-offs***  
-•	Search scaling risks diminishing returns as competition increases.  
-•	Affiliate growth may pressure margins if incentives rise.  
-•	Maintaining channel diversification remains critical to protect total revenue.  
+•	**Search** scaling risks diminishing returns as competition increases.  
+•	**Affiliate** growth may pressure margins if incentives rise.  
  
 ***Next Analytical Steps***  
 •	Analyse cost per acquisition and ROAS by channel to validate scaling decisions.  
 •	Segment performance by customer type (new vs returning) to refine spend allocation.  
-•	Test AOV uplift initiatives in lower-value channels to improve revenue efficiency.  
+•	Test AOV uplift initiatives in lower value channels to improve revenue efficiency.  
 
 ---
+### High- vs Low-Value Single-Order Users 
 
+Among one-time purchasers, how many orders are high-value vs low-value, and what does that tell us about customer value concentration?
 
 ---
-
+[⬆ Back to top](#top) 
