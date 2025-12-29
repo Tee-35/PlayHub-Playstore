@@ -9,18 +9,17 @@ Play Hub is an online retailer specialising in gaming consoles and IT equipment,
 
 The review will look at anhnsfhnd provide recommdations the following key areas:
 
-• **[Marketing Channel Performance & Revenue Contribution](#marketing-channel-performance-&-revenue-contribution):**  
-• **[High-Value vs Low-Value Single-Order Users](#high-value_vs_low-value_single-order_users)** .  
+
 • **Total Order by City:** An analysis of current stock levels and reorder efficiency.  
 
-- [High-Value vs Low-Value Single-Order Users](#high-value-vs-low-value-single-order-users)
+• **[Marketing Channel Performance & Revenue Contribution](#marketing-channel-performance--revenue-contribution)**  
+• **[High-Value vs Low-Value Single-Order Users](#high-value-vs-low-value-single-order-users)**  
 
 
 The csv file used to inspect clean and analyse the data is [here](Dataset).  
 
 ---
-
-## Marketing Channel Performance & Revenue Contribution
+## Marketing Channel Performance & Revenue Contribution  
 
 We looked at revenue performance by each marketing channel, Affiliate, Direct, Email, Search and Social. Revenue is very evenly spread across channels, with Affiliate and Search slightly outperforming the rest.
 Search stands out for having the highest average order value, suggesting high-intent customers, while Social and Affiliate drive revenue more through volume.
