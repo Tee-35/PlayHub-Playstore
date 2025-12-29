@@ -5,11 +5,11 @@
 
 Play Hub is an online retailer specialising in gaming consoles and IT equipment, offering products such as PlayStation 5 consoles, AirPods, and Google Pixel devices. This analysis focused on sales performance for the first half of 2025, using Python with Pandas, NumPy, Matplotlib, Seaborn and Excel to uncover purchasing trends and operational insights. Based on these findings, projections were developed for the second half of the year to guide stock planning, marketing strategies, and revenue optimisation. The review demonstrates how data-driven insights can support stronger business performance.
 
-
+- [Installation](#installation)
 
 The review will look at anhnsfhnd provide recommdations the following key areas:
 
-• **Marketing Channel Performance & Revenue Contribution:** .  
+• **[Marketing Channel Performance & Revenue Contribution](#marketing_channel_performance_&_revenue_contribution):**  
 • **High- vs Low-Value Single-Order Users:** .  
 • **Total Order by City:** An analysis of current stock levels and reorder efficiency.  
 
@@ -17,7 +17,7 @@ The csv file used to inspect clean and analyse the data is [here](Dataset).
 
 ---
 
-### Marketing Channel Performance & Revenue Contribution
+## Marketing Channel Performance & Revenue Contribution
 
 We looked at revenue performance by each marketing channel, Affiliate, Direct, Email, Search and Social. Revenue is very evenly spread across channels, with Affiliate and Search slightly outperforming the rest.
 Search stands out for having the highest average order value, suggesting high-intent customers, while Social and Affiliate drive revenue more through volume.
@@ -66,4 +66,8 @@ No channel is currently a clear outlier, suggesting stability but limited upside
 Among one-time purchasers, how many orders are high-value vs low-value, and what does that tell us about customer value concentration?
 
 ---
+
+## Installation
+
+
 [⬆ Back to top](#top) 
