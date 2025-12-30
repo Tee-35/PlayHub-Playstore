@@ -7,8 +7,8 @@ Play Hub is an online retailer specialising in gaming consoles and IT equipment,
 
 The review will look at anhnsfhnd provide recommdations the following key areas:  
 
-• **[Marketing Channel Performance & Revenue Contribution](#marketing-channel-performance--revenue-contribution)**  
-• **[High-Value vs Low-Value Single-Order Users](#high-value-vs-low-value-single-order-users)**  
+-  **[Marketing Channel Performance & Revenue Contribution](#marketing-channel-performance--revenue-contribution)**  
+-  **[High-Value vs Low-Value Single-Order Users](#high-value-vs-low-value-single-order-users)**  
 
 
 The csv file used to inspect clean and analyse the data is [here](Dataset).  
@@ -25,38 +25,38 @@ There’s an opportunity to optimise channel mix rather than relying on any sing
 
 ### Key Findings
 
-•	**Revenue distribution is balanced** across all channels, with Affiliate (£632k) and Search (£597k) marginally outperforming others.  
-•	**Search delivers the highest Average Order Value (£481)**, indicating stronger purchase intent and higher quality traffic.  
-•	**Affiliate and Social drive revenue primarily through order volume**, not transaction value.  
-•	**Email and Direct perform efficiently but at smaller scale**, with competitive AOVs but lower total orders.   
+- 	**Revenue distribution is balanced** across all channels, with Affiliate (£632k) and Search (£597k) marginally outperforming others.  
+- 	**Search delivers the highest Average Order Value (£481)**, indicating stronger purchase intent and higher quality traffic.  
+- 	**Affiliate and Social drive revenue primarily through order volume**, not transaction value.  
+- 	**Email and Direct perform efficiently but at smaller scale**, with competitive AOVs but lower total orders.   
 
 No channel is currently a clear outlier, suggesting stability but limited upside without targeted optimisation.
  
 ### Commercial Interpretation  
 
-•	**Intent differentiation:** Search captures late-funnel demand, resulting in higher AOV, while Social and Affiliate capture broader, earlier funnel traffic.  
-•	**Volume vs value dynamics:** Revenue parity across channels is achieved through different mechanics. Either higher AOV (Search) or higher order counts (Affiliate, Social).  
-•	**Risk profile:** Even revenue spread reduces exposure to channel specific volatility but may indicate under-leveraged high-intent channels.
+- 	**Intent differentiation:** Search captures late-funnel demand, resulting in higher AOV, while Social and Affiliate capture broader, earlier funnel traffic.  
+- 	**Volume vs value dynamics:** Revenue parity across channels is achieved through different mechanics. Either higher AOV (Search) or higher order counts (Affiliate, Social).  
+- 	**Risk profile:** Even revenue spread reduces exposure to channel specific volatility but may indicate under-leveraged high-intent channels.
  
 ### Strategic Implications & Recommendations  
 
 ***Scale selectively***  
-•	**Search:** Prioritise incremental investment while closely tracking marginal ROI and cost inflation.  
-•	**Affiliate:** Maintain investment given strong revenue contribution, subject to margin and commission control.  
+- 	**Search:** Prioritise incremental investment while closely tracking marginal ROI and cost inflation.  
+- 	**Affiliate:** Maintain investment given strong revenue contribution, subject to margin and commission control.  
 
 ***Optimise before scaling***  
-•	**Social:** Focus on conversion rate and AOV uplift through targeting and creative optimisation rather than increased spend.  
-•	**Email:** Test segmentation, retention, and cross-sell strategies to unlock incremental revenue from an efficient channel.  
+- 	**Social:** Focus on conversion rate and AOV uplift through targeting and creative optimisation rather than increased spend.  
+- 	**Email:** Test segmentation, retention, and cross-sell strategies to unlock incremental revenue from an efficient channel.  
 
 ***Manage trade-offs***  
-•	**Search** scaling risks diminishing returns as competition increases.  
-•	**Affiliate** growth may pressure margins if incentives rise.  
+- 	**Search** scaling risks diminishing returns as competition increases.  
+- 	**Affiliate** growth may pressure margins if incentives rise.  
  
 ### Limitations & Next Analytical Steps
 
-•	Analyse cost per acquisition and ROAS by channel to validate scaling decisions.  
-•	Segment performance by customer type (new vs returning) to refine spend allocation.  
-•	Test AOV uplift initiatives in lower value channels to improve revenue efficiency.  
+- 	Analyse cost per acquisition and ROAS by channel to validate scaling decisions.  
+- 	Segment performance by customer type (new vs returning) to refine spend allocation.  
+- 	Test AOV uplift initiatives in lower value channels to improve revenue efficiency.  
 
 [⬆ Back to top](#top)  
 
@@ -65,17 +65,17 @@ No channel is currently a clear outlier, suggesting stability but limited upside
 ## High-Value vs Low-Value Single-Order Users
 
 This dataset segments customer orders into High and Low order value groups and summarises their commercial performance using three key metrics:  
-• Order Value Segment: Categorizes orders based on their monetary value (High vs. Low).  
-• Order Count: The total number of orders placed within each segment.  
-• Total Revenue: The cumulative revenue generated by each segment.  
+-  Order Value Segment: Categorises orders based on their monetary value (Higher vs. Lower than the average order value).  
+-  Order Count: The total number of orders placed within each segment.  
+-  Total Revenue: The cumulative revenue generated by each segment.  
 The purpose of this segmentation is to understand how different customer value groups contribute to overall business performance and revenue generation.  
 
 ### Key Findings
 
-• The High order value segment generated approximately 74% of total revenue while representing fewer orders than the Low segment.   
-• The Low order value segment accounted for a higher number of orders but contributed only 26% of total revenue.  
-• This indicates a substantial difference in average order value between the two segments, with high-value customers driving disproportionate revenue impact.  
-• Revenue is concentrated within a smaller group of higher-spending customers, increasing the importance of segment-level performance monitoring.
+-  The High order value segment generated approximately 74% of total revenue while representing fewer orders than the Low segment.   
+-  The Low order value segment accounted for a higher number of orders but contributed only 26% of total revenue.  
+-  This indicates a substantial difference in average order value between the two segments, with high-value customers driving disproportionate revenue impact.  
+-  Revenue is concentrated within a smaller group of higher-spending customers, increasing the importance of segment-level performance monitoring.
 
  
 ### Commercial Interpretation  
@@ -88,18 +88,27 @@ This imbalance highlights that growth driven purely by order volume may not tran
 
 ### Strategic Implications & Recommendations  
 
-• Prioritise retention of high-value customers through loyalty incentives, personalised promotions, or premium experiences to reduce revenue concentration risk.  • Increase average order value within the low-value segment by introducing product bundles, cross-sell recommendations, or minimum spend thresholds.  
-• Adopt segmented marketing strategies, focusing ROI-driven campaigns on high-value customers while testing value-lift initiatives for lower-value customers.  
-• Track customer movement between segments over time to evaluate whether commercial initiatives are successfully upgrading customer value.
+-  Prioritise retention of high-value customers through loyalty incentives, personalised promotions, or premium experiences to reduce revenue concentration risk.  
+-  Increase average order value within the low-value segment by introducing product bundles, cross-sell recommendations, or minimum spend thresholds.  
+-  Adopt segmented marketing strategies, focusing ROI-driven campaigns on high-value customers while testing value-lift initiatives for lower-value customers.  
+-  Track customer movement between segments over time to evaluate whether commercial initiatives are successfully upgrading customer value.
 
-### Limitations & Next Analytical Steps
+## Limitations & Next Analytical Steps
 
-• The analysis is based on aggregated data, limiting visibility into individual customer behaviour.  
-• No time dimension is available to assess trends, seasonality, or growth patterns.  
-• Future analysis should incorporate:  
- Average order value trends by segment. 
- Repeat purchase and retention rates. 
- Customer lifetime value and acquisition channels  
+### Limitations
+
+- Lack of time-series data limits the ability to assess performance trends and seasonality.
+- Absence of customer-level metrics restricts evaluation of retention and lifetime value.
+- Aggregated data reduces visibility into individual purchasing behaviour.
+
+### Next Analytical Steps
+
+To strengthen commercial decision making, future analysis should include:
+
+- Average order value trends by segment over time  
+- Customer retention and repeat purchase behaviour  
+- Marketing channel attribution and acquisition cost by segment  
+
 
 
 These insights would enable more targeted commercial strategies and stronger forecasting.
