@@ -1,7 +1,7 @@
 <a name="top"></a>
 ## 🎮  Playhub - Gamestore - Project Background
 
-***Q1,Q2‑Review: Game Shop Sales Report Jan-Jun 2025***
+***Q1,Q2‑Commercial Review: Game Shop Sales Report Jan-Jun 2025***
 
 Play Hub is an online retailer specialising in gaming consoles and IT equipment, offering products such as PlayStation 5 consoles, AirPods, and Google Pixel devices. This analysis focused on sales performance for the first half of 2025, using Python with Pandas, NumPy, Matplotlib, Seaborn and Excel to uncover purchasing trends and operational insights. Based on these findings, projections were developed for the second half of the year to guide stock planning, marketing strategies, and revenue optimisation. The review demonstrates how data-driven insights can support stronger business performance.  
 
