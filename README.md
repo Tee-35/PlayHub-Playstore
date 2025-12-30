@@ -98,7 +98,7 @@ This imbalance highlights that growth driven purely by order volume may not tran
 -  Adopt segmented marketing strategies, focusing ROI-driven campaigns on high-value customers while testing value-lift initiatives for lower-value customers.  
 -  Track customer movement between segments over time to evaluate whether commercial initiatives are successfully upgrading customer value.
 
-## Limitations & Next Analytical Steps
+### Limitations & Next Analytical Steps
 
 ### Limitations
 
