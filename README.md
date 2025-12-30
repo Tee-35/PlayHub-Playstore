@@ -11,8 +11,8 @@ The review will look at anhnsfhnd provide recommdations the following key areas:
 -  **[High-Value vs Low-Value Single-Order Users](#high-value-vs-low-value-single-order-users)**  
 
 
-The csv file used to inspect, clean and analyse the data is [here](Dataset).  
-
+The csv file used to inspect, clean and analyse the data is [here](Dataset).   
+The Python code to export the clean date is [here](Dataset/Python_Code.ipynb).  
 ---
 ## Marketing Channel Performance & Revenue Contribution  
 
