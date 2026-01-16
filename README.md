@@ -10,9 +10,8 @@ The review will provide recommdations the following key areas:
 -  **[Marketing Channel Performance & Revenue Contribution](#marketing-channel-performance--revenue-contribution)**  
 -  **[High-Value vs Low-Value Single-Order Users](#high-value-vs-low-value-single-order-users)**  
 
-
-The csv file used to inspect, clean and analyse the data is [here](Dataset).   
-The Python code to export the clean data is [here](Dataset/Code.ipynb).
+The Python code used in Pandas to clean the data is [here](Dataset/Code.ipynb).
+The dataset csv file used to for the project is [here](Dataset).   
 
 ---
 ## Marketing Channel Performance & Revenue Contribution  
