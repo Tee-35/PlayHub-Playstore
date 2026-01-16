@@ -12,7 +12,7 @@ The review will provide recommdations the following key areas:
 
 
 The csv file used to inspect, clean and analyse the data is [here](Dataset).   
-The Python code to export the clean data is [here](Dataset/Python_Code.ipynb).  
+The Python code to export the clean data is [here](Dataset/Code.ipynb).
 
 ---
 ## Marketing Channel Performance & Revenue Contribution  
