@@ -8,7 +8,7 @@ Play Hub is an online retailer specialising in gaming consoles and IT equipment,
 The review will provide recommdations the following key areas:  
 
 -  **[Key Findings](#Key-Findings)**  
--  **[Commercial Impact, Geographical Insights & Fraud Risk Highlights](#Commercial-Impact,-Geographical-Insights-&-Fraud-Risk-Highlights)**   
+-  **[Commercial Impact, Geographical Insights & Fraud Risk Highlights](#Commercial-Impact)**   
 -  **[Next Analytical Steps](#Next-Analytical-Steps)**  
 -  **[Recommended Business Focus Areas](#Recommended-Business-Focus-Areas)**  
 
