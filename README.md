@@ -1,128 +1,71 @@
 <a name="top"></a>
 ## 🎮  Playhub - Gamestore - Project Background
 
-***Q1,Q2‑Commercial Review: Game Shop Sales Report Jan-Jun 2025***
+***Monthly Sales Performance Report – Finance Analysis Summary***
 
-Play Hub is an online retailer specialising in gaming consoles and IT equipment, offering products such as PlayStation 5 consoles, AirPods, and Google Pixel devices. This analysis focused on sales performance for the first half of 2025, using Python with Pandas, NumPy, Matplotlib, Seaborn and Excel to uncover purchasing trends and operational insights. Based on these findings, projections were developed for the second half of the year to guide stock planning, marketing strategies, and revenue optimisation. The review demonstrates how data-driven insights can support stronger business performance.  
+Play Hub is an online retailer specialising in gaming consoles and IT equipment, offering products such as PlayStation 5 consoles, AirPods, and Google Pixel devices. This analysis focused on sales performance for the first half of 2025, using Python with Pandas, NumPy & Google Looker to uncover purchasing trends and operational insights. Based on these findings, projections were developed for the second half of the year to guide stock planning, marketing strategies, and revenue optimisation. The review demonstrates how data-driven insights can support stronger business performance.  
 
 The review will provide recommdations the following key areas:  
 
--  **[Marketing Channel Performance & Revenue Contribution](#marketing-channel-performance--revenue-contribution)**  
--  **[High-Value vs Low-Value Single-Order Users](#high-value-vs-low-value-single-order-users)**  
+-  **[Key Findings](#Key-Findings)**  
+-  **[Commercial Impact, Geographical Insights & Fraud Risk Highlights](#Commercial-Impact,-Geographical-Insights-&-Fraud-Risk-Highlights)**  
+-  **[Next Analytical Steps](#Next-Analytical-Steps)**  
 
 The Python code used in Pandas to clean the data is [here](Dataset/syntax.md).   
 The dataset csv file used to for the project is [here](Dataset).   
 
 ---
-## Marketing Channel Performance & Revenue Contribution  
-
-We looked at revenue performance by each marketing channel, Affiliate, Direct, Email, Search and Social. Revenue is very evenly spread across channels, with Affiliate and Search slightly outperforming the rest.
-Search stands out for having the highest average order value, suggesting high-intent customers, while Social and Affiliate drive revenue more through volume.
-There’s an opportunity to optimise channel mix rather than relying on any single channel.  
 
 
-<img width="4931" height="2200" alt="Picture 2" src="https://github.com/user-attachments/assets/667a7dfd-53f5-4df2-bf8e-ac2c3017a7f6" />  
+### Overview of Key KPIs
+The latest monthly sales dashboard indicates strong commercial performance with total revenue reaching £2.30m across 5,000 orders. Website orders account for 56% of total transactions, highlighting the continued importance of digital channels in overall revenue generation. Month-on-month revenue growth stands at 25%, demonstrating significant momentum in sales performance and suggesting successful marketing and demand generation strategies during the reporting period.
+The most ordered product is the Xbox Series X, confirming strong consumer demand for high-value gaming products. Payment retry rates remain relatively low at 3% of total orders, suggesting that the majority of transactions are successfully processed on first attempt, though retry activity should still be monitored due to potential operational or fraud implications.
+
 
 ### Key Findings
+Revenue distribution across cities reveals that Manchester generated the highest revenue (£608k), followed by London (£492k) and Glasgow (£368k). Order volumes follow a similar pattern, with Manchester recording the highest number of orders (1,209). While London ranks second in order volume (996), its revenue per order appears relatively high, suggesting a higher proportion of premium product purchases.  
 
-- 	**Revenue distribution is balanced** across all channels, with Affiliate (£632k) and Search (£597k) marginally outperforming others.  
-- 	**Search delivers the highest Average Order Value (£481)**, indicating stronger purchase intent and higher quality traffic.  
-- 	**Affiliate and Social drive revenue primarily through order volume**, not transaction value.  
-- 	**Email and Direct perform efficiently but at smaller scale**, with competitive AOVs but lower total orders.   
+Marketing channel analysis shows revenue is fairly evenly distributed across acquisition channels, with search, social, affiliate, direct, and email each contributing between approximately £433k and £458k. This balanced distribution indicates diversified customer acquisition, reducing dependency on a single marketing source. Orders by channel also remain consistent (around 900–950 orders each), reinforcing the effectiveness of the multi-channel marketing strategy.  
 
-No channel is currently a clear outlier, suggesting stability but limited upside without targeted optimisation.
- 
-### Commercial Interpretation  
+[⬆ Back to top](#top) 
 
-- 	**Intent differentiation:** Search captures late-funnel demand, resulting in higher AOV, while Social and Affiliate capture broader, earlier funnel traffic.  
-- 	**Volume vs value dynamics:** Revenue parity across channels is achieved through different mechanics. Either higher AOV (Search) or higher order counts (Affiliate, Social).  
-- 	**Risk profile:** Even revenue spread reduces exposure to channel specific volatility but may indicate under-leveraged high-intent channels.
- 
-### Strategic Implications & Recommendations  
+### Commercial Impact, Geographical Insights & Fraud Risk Highlights  
 
-***Scale selectively***  
-- 	**Search:** Prioritise incremental investment while closely tracking marginal ROI and cost inflation.  
-- 	**Affiliate:** Maintain investment given strong revenue contribution, subject to margin and commission control.  
+From a commercial perspective, Manchester and London remain the key revenue-driving markets, together contributing a significant share of total sales. Manchester leads in order volume, suggesting strong demand and effective customer acquisition in that region. However, London’s relatively high revenue compared with its order volume suggests higher-value purchases, likely driven by premium electronics products. 
 
-***Optimise before scaling***  
-- 	**Social:** Focus on conversion rate and AOV uplift through targeting and creative optimisation rather than increased spend.  
-- 	**Email:** Test segmentation, retention, and cross-sell strategies to unlock incremental revenue from an efficient channel.  
+Reattempted order analysis highlights potential operational or fraud-related considerations. London shows the highest number of reattempted orders (105), significantly exceeding other cities such as Manchester (18) and Glasgow (9). This may indicate payment friction, system retries, or potential fraudulent activity requiring further investigation.  
 
-***Manage trade-offs***  
-- 	**Search** scaling risks diminishing returns as competition increases.  
-- 	**Affiliate** growth may pressure margins if incentives rise.  
- 
-### Limitations & Next Analytical Steps
+Platform analysis reveals that mobile app transactions account for the majority of reattempted orders (120) compared with 30 from the website. This suggests that mobile payment flows may require further review to identify technical issues or customer authentication challenges.  
 
-- 	Analyse cost per acquisition and ROAS by channel to validate scaling decisions.  
-- 	Segment performance by customer type (new vs returning) to refine spend allocation.  
-- 	Test AOV uplift initiatives in lower value channels to improve revenue efficiency.  
+From a product perspective, high-value electronics products dominate reattempted transactions, with the Xbox Series X showing notable retry activity. High-value goods often attract higher fraud attempts, meaning monitoring and fraud controls should remain a priority. 
 
 [⬆ Back to top](#top)  
 
----  
-
-## High-Value vs Low-Value Single-Order Users
-
-This dataset segments customer orders into High and Low order value groups and summarises their commercial performance using three key metrics:  
--  Order Value Segment: Categorises orders based on their monetary value (Higher vs. Lower than the average order value).  
--  Order Count: The total number of orders placed within each segment.  
--  Total Revenue: The cumulative revenue generated by each segment.  
-The purpose of this segmentation is to understand how different customer value groups contribute to overall business performance and revenue generation.  
-
-<img width="2855" height="2662" alt="Picture 3" src="https://github.com/user-attachments/assets/d44eb462-af6b-4efc-9ba5-e1909085e847" />  
-<img width="3107" height="2635" alt="Picture 4" src="https://github.com/user-attachments/assets/0d73c64d-a117-4eeb-a10f-c0f91dbad635" />
-
-
-
-### Key Findings
-
--  The High order value segment generated approximately 74% of total revenue while representing fewer orders than the Low segment.   
--  The Low order value segment accounted for a higher number of orders but contributed only 26% of total revenue.  
--  This indicates a substantial difference in average order value between the two segments, with high-value customers driving disproportionate revenue impact.  
--  Revenue is concentrated within a smaller group of higher-spending customers, increasing the importance of segment-level performance monitoring.
-
- 
-### Commercial Interpretation  
-
-From a commercial perspective, the business is value-led rather than volume-led.  
-
-While the Low order value segment shows strong transactional activity, it delivers limited revenue efficiency. In contrast, the High order value segment demonstrates significantly higher revenue per order, suggesting stronger purchasing intent, higher willingness to pay, or more effective product-market fit.  
-
-This imbalance highlights that growth driven purely by order volume may not translate into meaningful revenue uplift, whereas protecting and expanding high-value customers is likely to yield greater commercial returns.  
-
-### Strategic Implications & Recommendations  
-
--  Prioritise retention of high-value customers through loyalty incentives, personalised promotions, or premium experiences to reduce revenue concentration risk.  
--  Increase average order value within the low-value segment by introducing product bundles, cross-sell recommendations, or minimum spend thresholds.  
--  Adopt segmented marketing strategies, focusing ROI-driven campaigns on high-value customers while testing value-lift initiatives for lower-value customers.  
--  Track customer movement between segments over time to evaluate whether commercial initiatives are successfully upgrading customer value.
-
-### Limitations & Next Analytical Steps
-
-### Limitations
-
-- Lack of time-series data limits the ability to assess performance trends and seasonality.
-- Absence of customer-level metrics restricts evaluation of retention and lifetime value.
-- Aggregated data reduces visibility into individual purchasing behaviour.
-
 ### Next Analytical Steps
 
-To strengthen commercial decision making, future analysis should include:
+To strengthen commercial performance and risk monitoring, the following analytical steps are recommended:  
 
-- Average order value trends by segment over time  
-- Customer retention and repeat purchase behaviour  
-- Marketing channel attribution and acquisition cost by segment  
+- **Monitor high-value product sales in London**, particularly gaming consoles and electronics, to ensure strong revenue growth while maintaining fraud safeguards.  
+- **Analyse mobile app payment flows** , given the high concentration of payment retries on the mobile platform, to identify potential technical or user experience issues.  
+- **Conduct deeper fraud risk analysis on reattempted orders** , focusing on London and high-ticket products where abnormal retry behaviour may indicate fraud attempts.  
+- **Evaluate marketing channel ROI**, ensuring that channels delivering strong order volume continue to generate profitable customer acquisition.
+- 
+[⬆ Back to top](#top)
+
+### Recommended Business Focus Areas
+
+Strategically, the business should prioritise:
+
+- 	**London**  for high-value product sales optimisation and fraud monitoring. 
+- 	**Manchester**  for continued order volume growth and customer acquisition.  
+- 	**Mobile app platform**  improvements to reduce payment retry rates.  
+- 	**High-value product categories,**  particularly gaming consoles and electronics.
+  
+Overall, the business demonstrates strong revenue growth and balanced marketing performance, with targeted improvements in payment monitoring and platform optimisation expected to further strengthen profitability and operational resilience.
+
+[⬆ Back to top](#top)  
 
 
 
-These insights would enable more targeted commercial strategies and stronger forecasting.
 
 
----  
-
-
-
-
-
-[⬆ Back to top](#top) 
