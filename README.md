@@ -24,8 +24,7 @@ The latest monthly sales dashboard indicates strong commercial performance with 
 The **most ordered product is the Xbox Series X**, confirming strong consumer demand for high-value gaming products. Payment retry rates remain relatively low at **3% of total orders**, suggesting that the majority of transactions are successfully processed on first attempt, though retry activity should still be monitored due to potential operational or fraud implications.
 
 
-
-
+Click [here](dashboard.jpg) to view the dashboard.  
 
 ### Key Findings
 Revenue distribution across cities reveals that **Manchester generated the highest revenue (£608k)**, followed by **London (£492k)** and **Glasgow (£368k)**. Order volumes follow a similar pattern, with **Manchester recording the highest number of orders (1,209)**. While London ranks second in order volume (996), its revenue per order appears relatively high, suggesting a higher proportion of premium product purchases.  
