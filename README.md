@@ -8,8 +8,9 @@ Play Hub is an online retailer specialising in gaming consoles and IT equipment,
 The review will provide recommdations the following key areas:  
 
 -  **[Key Findings](#Key-Findings)**  
--  **[Commercial Impact, Geographical Insights & Fraud Risk Highlights](#Commercial-Impact,-Geographical-Insights-&-Fraud-Risk-Highlights)**  
+-  **[Commercial Impact, Geographical Insights & Fraud Risk Highlights](#Commercial-Impact,-Geographical-Insights-&-Fraud-Risk-Highlights)**   
 -  **[Next Analytical Steps](#Next-Analytical-Steps)**  
+-  **[Recommended Business Focus Areas](#Recommended-Business-Focus-Areas)**  
 
 The Python code used in Pandas to clean the data is [here](Dataset/syntax.md).   
 The dataset csv file used to for the project is [here](Dataset).   
@@ -20,6 +21,7 @@ The dataset csv file used to for the project is [here](Dataset).
 ### Overview of Key KPIs
 The latest monthly sales dashboard indicates strong commercial performance with total revenue reaching £2.30m across 5,000 orders. Website orders account for 56% of total transactions, highlighting the continued importance of digital channels in overall revenue generation. Month-on-month revenue growth stands at 25%, demonstrating significant momentum in sales performance and suggesting successful marketing and demand generation strategies during the reporting period.
 The most ordered product is the Xbox Series X, confirming strong consumer demand for high-value gaming products. Payment retry rates remain relatively low at 3% of total orders, suggesting that the majority of transactions are successfully processed on first attempt, though retry activity should still be monitored due to potential operational or fraud implications.
+
 
 
 ### Key Findings
