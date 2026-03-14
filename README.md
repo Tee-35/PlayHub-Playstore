@@ -18,29 +18,31 @@ The dataset csv file used to for the project is [here](Dataset).
 ---
 
 
-### Overview of Key KPIs
-The latest monthly sales dashboard indicates strong commercial performance with total revenue reaching £2.30m across 5,000 orders. Website orders account for 56% of total transactions, highlighting the continued importance of digital channels in overall revenue generation. Month-on-month revenue growth stands at 25%, demonstrating significant momentum in sales performance and suggesting successful marketing and demand generation strategies during the reporting period.
-The most ordered product is the Xbox Series X, confirming strong consumer demand for high-value gaming products. Payment retry rates remain relatively low at 3% of total orders, suggesting that the majority of transactions are successfully processed on first attempt, though retry activity should still be monitored due to potential operational or fraud implications.
+### Overview of Key KPIs  
 
-[View PDF](pic.pdf)
+The latest monthly sales dashboard indicates strong commercial performance with total **revenue reaching £2.30m across 5,000 orders**. **Website orders** account for **56% of total transactions**, highlighting the continued importance of digital channels in overall revenue generation. Month-on-month revenue growth stands at **25%**, demonstrating significant momentum in sales performance and suggesting successful marketing and demand generation strategies during the reporting period.
+The **most ordered product is the Xbox Series X**, confirming strong consumer demand for high-value gaming products. Payment retry rates remain relatively low at **3% of total orders**, suggesting that the majority of transactions are successfully processed on first attempt, though retry activity should still be monitored due to potential operational or fraud implications.
+
+
+
 
 
 ### Key Findings
-Revenue distribution across cities reveals that Manchester generated the highest revenue (£608k), followed by London (£492k) and Glasgow (£368k). Order volumes follow a similar pattern, with Manchester recording the highest number of orders (1,209). While London ranks second in order volume (996), its revenue per order appears relatively high, suggesting a higher proportion of premium product purchases.  
+Revenue distribution across cities reveals that **Manchester generated the highest revenue (£608k)**, followed by **London (£492k)** and **Glasgow (£368k)**. Order volumes follow a similar pattern, with **Manchester recording the highest number of orders (1,209)**. While London ranks second in order volume (996), its revenue per order appears relatively high, suggesting a higher proportion of premium product purchases.  
 
-Marketing channel analysis shows revenue is fairly evenly distributed across acquisition channels, with search, social, affiliate, direct, and email each contributing between approximately £433k and £458k. This balanced distribution indicates diversified customer acquisition, reducing dependency on a single marketing source. Orders by channel also remain consistent (around 900–950 orders each), reinforcing the effectiveness of the multi-channel marketing strategy.  
+Marketing channel analysis shows revenue is **fairly evenly distributed across acquisition channels**, with search, social, affiliate, direct, and email each contributing between approximately **£433k and £458k**. This balanced distribution indicates diversified customer acquisition, reducing dependency on a single marketing source. Orders by channel also remain consistent (around 900–950 orders each), reinforcing the effectiveness of the multi-channel marketing strategy.  
 
 [⬆ Back to top](#top) 
 
 ### Commercial Impact, Geographical Insights & Fraud Risk Highlights  
 
-From a commercial perspective, Manchester and London remain the key revenue-driving markets, together contributing a significant share of total sales. Manchester leads in order volume, suggesting strong demand and effective customer acquisition in that region. However, London’s relatively high revenue compared with its order volume suggests higher-value purchases, likely driven by premium electronics products. 
+From a commercial perspective, **Manchester and London remain the key revenue-driving markets**, together contributing a significant share of total sales. Manchester leads in order volume, suggesting strong demand and effective customer acquisition in that region. However, **London’s relatively high revenue compared with its order volume suggests higher-value purchases**, likely driven by premium electronics products. 
 
-Reattempted order analysis highlights potential operational or fraud-related considerations. London shows the highest number of reattempted orders (105), significantly exceeding other cities such as Manchester (18) and Glasgow (9). This may indicate payment friction, system retries, or potential fraudulent activity requiring further investigation.  
+Reattempted order analysis highlights potential operational or fraud-related considerations. **London shows the highest number of reattempted orders (105)**, significantly exceeding other cities such as Manchester (18) and Glasgow (9). This may indicate payment friction, system retries, or potential fraudulent activity requiring further investigation.  
 
-Platform analysis reveals that mobile app transactions account for the majority of reattempted orders (120) compared with 30 from the website. This suggests that mobile payment flows may require further review to identify technical issues or customer authentication challenges.  
+Platform analysis reveals that **mobile app transactions account for the majority of reattempted orders (120)** compared with **30 from the website**. This suggests that mobile payment flows may require further review to identify technical issues or customer authentication challenges.  
 
-From a product perspective, high-value electronics products dominate reattempted transactions, with the Xbox Series X showing notable retry activity. High-value goods often attract higher fraud attempts, meaning monitoring and fraud controls should remain a priority. 
+From a product perspective, **high-value electronics products dominate reattempted transactions**, with the Xbox Series X showing notable retry activity. High-value goods often attract higher fraud attempts, meaning monitoring and fraud controls should remain a priority. 
 
 [⬆ Back to top](#top)  
 
