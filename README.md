@@ -54,7 +54,6 @@ To strengthen commercial performance and risk monitoring, the following analytic
 - **Analyse mobile app payment flows** , given the high concentration of payment retries on the mobile platform, to identify potential technical or user experience issues.  
 - **Conduct deeper fraud risk analysis on reattempted orders** , focusing on London and high-ticket products where abnormal retry behaviour may indicate fraud attempts.  
 - **Evaluate marketing channel ROI**, ensuring that channels delivering strong order volume continue to generate profitable customer acquisition.
-- 
 [⬆ Back to top](#top)
 
 ### Recommended Business Focus Areas
